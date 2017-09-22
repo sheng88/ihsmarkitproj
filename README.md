@@ -1,8 +1,8 @@
 # ihsmarkitproj
 
 ### This workspace contains only one class com.ihsmarkit.assignment.FindPalindromes which returns all palindromes of a given string.
-The class file is located under src/main/scala. It's associated ScalaTest class com.ihsmarkit.assignment.FindPalindromesSpec can be found under src/test/scala.
-To successfully compile this project, you must follow all the system requirements specified below. Also find section How to Run to run and test the class.
+### The class file is located under src/main/scala. It's associated ScalaTest class com.ihsmarkit.assignment.FindPalindromesSpec can be ### found under src/test/scala.
+### To successfully compile this project, you must follow all the system requirements specified below. Also find section How to Run to run ### and test the class.
 
 System Requirements:
 
