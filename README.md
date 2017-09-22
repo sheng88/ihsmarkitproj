@@ -12,6 +12,8 @@ The above software packages should have been properly installed. Their respectiv
 
 1) Check out the project to your local director.
 2) Open your command prompt util tool and navigate to the root directory of the project.
-3) To compile the project, run ###sbt compile
-4) If compilation is successful, you may run the application by entering sbt run MYTESTSTRING, where MYTESTSTRING is the string you would like to find palindromes for.
-5) To test the class, run sbt test. This command will execute all test cases specified in com.ihsmarkit.assignment.FindPalindromesSpec.
+3) To compile the project, run > sbt compile
+4) After project is successful compiled, you may run the application by entering > sbt run MYTESTSTRING, where MYTESTSTRING is the string which you want to find palindromes for.
+5) To test the class, run > sbt test. This command will execute all test cases specified in com.ihsmarkit.assignment.FindPalindromesSpec.
+
+Please contact me if you encounter any issue. My email is to_sheng@hotmail.com.
