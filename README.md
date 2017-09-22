@@ -11,7 +11,7 @@ Before running the program, the above software packages should have been properl
 
 ### How to run
 
-1) Clone this repository to your local director.
+1) Clone or download this repository to your local director.
 2) Open your command prompt utility tool, then navigate to the root directory of the project.
 3) To compile the project, run > sbt compile
 4) After the project has been successfully compiled, you may run the application by entering > sbt run MYTESTSTRING, where MYTESTSTRING is a sample string which you want to find palindromes for.
