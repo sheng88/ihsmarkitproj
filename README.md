@@ -7,7 +7,7 @@ This workspace contains only one class, **com.ihsmarkit.assignment.FindPalindrom
 2) Scala 2.12.1
 3) SBT 1.0.2
 
-Before running the program, the above software packages should have been properly installed on your computer. Their respective home directories, such as JAVA_HOME, SCALA_HOME, and SBT_HOME, should also have been added to the computer's environment variables. As well as their bin folders should also have been added to the computer's **Path** variable.
+Before running the program, the above software packages should have been properly installed on your computer. Their respective home directories, such as JAVA_HOME, SCALA_HOME, and SBT_HOME, should have been added to the computer's environment variables. Their bin folders should also have been added to the computer's **Path** variable as well.
 
 ### How to run
 
