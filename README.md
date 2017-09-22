@@ -7,7 +7,7 @@ This workspace contains only one class, com.ihsmarkit.assignment.FindPalindromes
 2) Scala 2.12.1
 3) SBT 1.0.2
 
-Before running the program, the above software packages should have been properly installed on your computer. Their respective environment variables should also have been updated to the computer's environment properties.
+Before running the program, the above software packages should have been properly installed on your computer. Their respective environment variables, such as JAVA_HOME, SCALA_HOME, and SBT_HOME, should also have been updated to the computer's environment properties. 
 
 ### How to run
 
