@@ -11,10 +11,10 @@ Before running the program, the above software packages should have been properl
 
 ### How to run
 
-1) Check out the project to your local director.
+1) Clone this repository to your local director.
 2) Open your command prompt utility tool, then navigate to the root directory of the project.
 3) To compile the project, run > sbt compile
-4) After the project has been successful compiled, you may run the application by entering > sbt run MYTESTSTRING, where MYTESTSTRING is a sample string which you want to find palindromes for.
+4) After the project has been successfully compiled, you may run the application by entering > sbt run MYTESTSTRING, where MYTESTSTRING is a sample string which you want to find palindromes for.
 5) To test the class, run > sbt test. This command will execute all test cases specified in the ScalaTest class com.ihsmarkit.assignment.FindPalindromesSpec.
 
-Please contact me if you encounter any issue. My email is to_sheng@hotmail.com.
+Please contact me if you encounter any issues. My email is to_sheng@hotmail.com.
