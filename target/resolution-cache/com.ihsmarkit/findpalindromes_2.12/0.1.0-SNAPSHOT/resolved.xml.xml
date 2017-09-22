@@ -4,7 +4,7 @@
 		module="findpalindromes_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20170921215626"
+		publication="20170922004450"
 	>
 		<description>
 		FindPalindromes

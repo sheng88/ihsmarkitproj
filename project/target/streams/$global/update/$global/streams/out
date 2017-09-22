@@ -6321,7 +6321,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 7648ms :: artifacts dl 253ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1265ms :: artifacts dl 36ms[0m
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT compile produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT runtime produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT test produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-test.xml[0m
@@ -6335,5 +6335,5 @@
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT docs produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT pom produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#ihsmarkitproj-build;0.1-SNAPSHOT scala-tool produced in E:\ws\ihsmarkitproj\project\target\resolution-cache\reports\default-ihsmarkitproj-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (7648ms resolve - 253ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1265ms resolve - 36ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

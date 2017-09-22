@@ -4,7 +4,7 @@
 		module="ihsmarkitproj-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170921184111"
+		publication="20170922002002"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
