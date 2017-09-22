@@ -35,7 +35,7 @@ object FindPalindromes {
     for (i <- 0 to strLength) {
       for (j <- (i+1) to (strLength)) {
         val subStr = str.substring(i, j)
-        if (isPalindrome(subStr)) {
+        if (isPalindrome(subStr.toLowerCase())) {
           result += ((subStr, i))
         }
       }
