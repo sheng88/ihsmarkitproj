@@ -22,8 +22,8 @@ object FindPalindromes {
   }
 
   /*
-  This public method returns a List[(String, Int)] of all palindromes found in a given string.
-  The string value in the tuple represents a palindrome. It's related integer value is the palindrome's starting location in the string.
+  This public method returns a list of all palindromes found in a given string.
+  The string value in the list's tuple represents a palindrome. It's related integer value is the palindrome's starting location in the string.
    */
   def getPalindromes(str: String): immutable.List[(String, Int)] = {
     val result = new scala.collection.mutable.ListBuffer[(String, Int)]()
