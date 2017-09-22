@@ -1,10 +1,10 @@
-# ihsmarkitproj
+## ihsmarkitproj
 
-### This workspace contains only one class com.ihsmarkit.assignment.FindPalindromes which returns all palindromes of a given string.
-### The class file is located under src/main/scala. It's associated ScalaTest class com.ihsmarkit.assignment.FindPalindromesSpec can be ### found under src/test/scala.
-### To successfully compile this project, you must follow all the system requirements specified below. Also find section How to Run to run ### and test the class.
+This workspace contains class com.ihsmarkit.assignment.FindPalindromes which can find and return all palindromes of a given string.
+The class source file is located under src/main/scala. It's associated ScalaTest class com.ihsmarkit.assignment.FindPalindromesSpec ### can be found under the corresponding test folder src/test/scala.
+To successfully compile this project, your computer must satisfies the following system requirements.
 
-System Requirements:
+### System Requirements:
 
 The following should have been installed and configured on your computer prior to building the workspace.
 
@@ -13,7 +13,7 @@ The following should have been installed and configured on your computer prior t
 3) SBT 1.0.2
 
 
-How to run
+### How to run
 
 1) Check out the project to your local director.
 2) Open your command prompt tool and navigate to the root directory of the project.
