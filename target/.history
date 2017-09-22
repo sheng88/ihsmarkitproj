@@ -1,0 +1,11 @@
+run
+run AAA
+exit
+run AABACAA
+exit
+run ABACCDAC
+;reload; */*:dumpStructureTo C:\Users\sheng\AppData\Local\Temp\sbt-structure.xml download resolveClassifiers resolveSbtClassifiers
+; {file:/E:/ws/ihsmarkitproj/}root/products; {file:/E:/ws/ihsmarkitproj/}root/test:products
+run AAABBBAAAAAA
+AAABBBAAA
+; {file:/E:/ws/ihsmarkitproj/}root/products; {file:/E:/ws/ihsmarkitproj/}root/test:products
