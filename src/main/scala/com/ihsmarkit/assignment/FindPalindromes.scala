@@ -53,8 +53,8 @@ object FindPalindromes {
   private def isPalindrome(str: String): Boolean = {
     //Quick exit
     if (null == str || str.isEmpty || str.length == 1) return false
-
+    val tempStr = str.toLowerCase()
     //First, obtain a list of boolean results. Then apply AND operation on the list of boolean values.
-    (for (i <- 0 to str.length / 2) yield (str(i) == str(str.length - i - 1))).reduceLeft((i, j) => i && j)
+    (for (i <- 0 to tempStr.length / 2) yield (tempStr(i) == tempStr(tempStr.length - i - 1))).reduceLeft((i, j) => i && j)
   }
 }
