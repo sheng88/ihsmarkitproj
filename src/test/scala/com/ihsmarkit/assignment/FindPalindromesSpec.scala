@@ -56,6 +56,11 @@ class FindPalindromesSpec extends FlatSpec {
     assert((FindPalindromes invokePrivate testIsPalindrome("BDADB")) == true)
   }
 
+  it should "return true when string is 'c2BBabB2C'" in {
+    val testIsPalindrome = PrivateMethod[Boolean]('isPalindrome)
+    assert((FindPalindromes invokePrivate testIsPalindrome("BBabB")) == true)
+  }
+
   // Test public method printPalindromes
   "FindPalindromes object's public method printPalindromes" should "print nothing when string is null or empty" in {
     val empty1 = FindPalindromes.getPalindromes(null)
@@ -81,4 +86,5 @@ class FindPalindromesSpec extends FlatSpec {
     val str = FindPalindromes.getPalindromes("EFGAAHBDBIJ")
     FindPalindromes.printPalindromes(str)
   }
+
 }
